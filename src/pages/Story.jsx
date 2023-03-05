@@ -1,12 +1,12 @@
 import React from 'react'
 
-function Home() {
+function Story() {
   return (
     <div>
       <h1>Welcome to Adventurarr</h1>
-      <p>Join us for a world that is created by the one</p>
+      <p>List to my story...</p>
     </div>
   )
 }
 
-export default Home
+export default Story
