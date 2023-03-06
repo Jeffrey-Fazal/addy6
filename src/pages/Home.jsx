@@ -1,10 +1,12 @@
 import React from 'react'
+import Submit from '../components/Submit'
 
 function Home() {
   return (
     <div>
-      <h1>Welcome to Adventurarr</h1>
-      <p>Join us for a world that is created by the one</p>
+      <h1>Welcome to the Adventurarr</h1>
+      <p>Import submit form</p>
+      <Submit />
     </div>
   )
 }

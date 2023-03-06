@@ -3,3 +3,5 @@ node_modules
 dist
 dist-ssr
 *.local
+.env
+src/firebase_setup/firebase.js
